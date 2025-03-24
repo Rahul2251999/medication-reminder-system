@@ -1,0 +1,8 @@
+{"baseUrl":"https://medication-reminder-system.ngrok.io","environment":"development","level":"info","message":"Server started","port":"3000","timestamp":"2025-03-24T02:14:34.777Z"}
+{"baseUrl":"https://medication-reminder-system.ngrok.io","environment":"development","level":"info","message":"Server started","port":"3000","timestamp":"2025-03-24T02:14:43.141Z"}
+{"baseUrl":"https://medication-reminder-system.ngrok.io","environment":"development","level":"info","message":"Server started","port":"3000","timestamp":"2025-03-24T02:16:11.979Z"}
+{"baseUrl":"https://medication-reminder-system.ngrok.io","environment":"development","level":"info","message":"Server started","port":"3000","timestamp":"2025-03-24T02:16:15.273Z"}
+{"level":"info","message":"Initiating outbound call","phoneNumber":"+16674190143","timestamp":"2025-03-24T02:18:18.215Z"}
+{"error":"The number +16674190143 is unverified. Trial accounts may only make calls to verified numbers.","level":"error","message":"Failed to initiate call","phoneNumber":"+16674190143","timestamp":"2025-03-24T02:18:18.594Z"}
+{"level":"info","message":"Initiating outbound call","phoneNumber":"+14439835865","timestamp":"2025-03-24T02:18:38.214Z"}
+{"callSid":"CA71280eca84cee61b41cd8deb9b9762e7","level":"info","message":"Call initiated successfully","phoneNumber":"+14439835865","status":"queued","timestamp":"2025-03-24T02:18:38.323Z"}
